@@ -13,17 +13,16 @@ Run `python scripts/generate_readme.py` after you add images to `images/` and en
 - [All achievements](#achievements-gallery)
 - [1. BT Group Data & AI Hackathon, which was held at the #GoogleAnanta office!](#ach-1)
 - [2. Google Cloud Professional Cloud Architect](#ach-2)
-- [3. Google cloud facilitator program 2021](#ach-3)
-- [4. Google Cloud Facilitator](#ach-4)
+- [3. GCP Professional Data Engineer Certification](#ach-3)
+- [4. Google cloud facilitator program 2021](#ach-4)
 - [5. Completed projects on Web Development](#ach-5)
-- [6. GCP Professional Data Engineer Certification](#ach-6)
 - [Repository Documentation](#repository-documentation)
 
 <a id="achievements-gallery"></a>
 ## Achievements Gallery
 
 <a id="ach-1"></a>
-### 1. BT Group Data & AI Hackathon, which was held at the #GoogleAnanta office! (2025-06-05)
+### 1. BT Group Data & AI Hackathon, which was held at the #GoogleAnanta office! (June 05, 2025)
 
 <table><tr>
 <td width="240" valign="top">
@@ -41,7 +40,7 @@ It was all about fast-paced problem-solving, collaboration, learning and buildin
 ---
 
 <a id="ach-2"></a>
-### 2. Google Cloud Professional Cloud Architect (2025-06-05)
+### 2. Google Cloud Professional Cloud Architect (June 05, 2025)
 
 <table><tr>
 <td width="240" valign="top">
@@ -59,7 +58,25 @@ Certified by Google Cloud
 ---
 
 <a id="ach-3"></a>
-### 3. Google cloud facilitator program 2021 (2021-07-07)
+### 3. GCP Professional Data Engineer Certification (July 28, 2024)
+
+<table><tr>
+<td width="240" valign="top">
+<img src="https://images.credly.com/size/680x680/images/2d613ff8-8879-430b-b2d8-925fa29785e8/image.png" alt="GCP Professional Data Engineer Certification" width="220" style="border-radius:8px;" />
+</td>
+<td valign="top">
+Earned from Google
+
+<p><strong>References:</strong> <a href="https://www.credly.com/badges/bda5432f-2169-4629-98de-dc6d295d4661">View on Credly</a></p>
+</td>
+</tr></table>
+
+[Back to Index](#index) | [Back to Top](#my-achievements)
+
+---
+
+<a id="ach-4"></a>
+### 4. Google cloud facilitator program 2021 (July 07, 2021)
 
 <table><tr>
 <td width="240" valign="top">
@@ -76,26 +93,8 @@ Investigated over a dozen key GCP features within an intensive training program,
 
 ---
 
-<a id="ach-4"></a>
-### 4. Google Cloud Facilitator (2021-07-07)
-
-<table><tr>
-<td width="240" valign="top">
-<img src="https://images.credly.com/..." alt="Google Cloud Facilitator" width="220" style="border-radius:8px;" />
-</td>
-<td valign="top">
-Certified by Google Cloud
-
-<p><strong>References:</strong> <a href="https://www.credly.com/badges/...">View Badge</a></p>
-</td>
-</tr></table>
-
-[Back to Index](#index) | [Back to Top](#my-achievements)
-
----
-
 <a id="ach-5"></a>
-### 5. Completed projects on Web Development (2018-11-05)
+### 5. Completed projects on Web Development (November 05, 2018)
 
 <table><tr>
 <td width="240" valign="top">
@@ -105,24 +104,6 @@ Certified by Google Cloud
 Completed projects on Web Development.
 
 <p><strong>References:</strong> <a href="https://buzzinformations.blogspot.com/">Blog</a></p>
-</td>
-</tr></table>
-
-[Back to Index](#index) | [Back to Top](#my-achievements)
-
----
-
-<a id="ach-6"></a>
-### 6. GCP Professional Data Engineer Certification (July 28, 2024)
-
-<table><tr>
-<td width="240" valign="top">
-<img src="https://images.credly.com/size/680x680/images/2d613ff8-8879-430b-b2d8-925fa29785e8/image.png" alt="GCP Professional Data Engineer Certification" width="220" style="border-radius:8px;" />
-</td>
-<td valign="top">
-Earned from Google
-
-<p><strong>References:</strong> <a href="https://www.credly.com/badges/bda5432f-2169-4629-98de-dc6d295d4661">View on Credly</a></p>
 </td>
 </tr></table>
 

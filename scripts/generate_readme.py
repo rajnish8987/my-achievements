@@ -25,12 +25,16 @@ OUT_PATH = os.path.join(ROOT, "README.md")
 def parse_date(s: str):
     if not s:
         return None
-    for fmt in ("%Y-%m-%d", "%Y/%m/%d"):
+    for fmt in ("%Y-%m-%d", "%Y/%m/%d", "%B %d, %Y", "%b %d, %Y"):
         try:
             return datetime.datetime.strptime(s, fmt).date()
         except Exception:
             continue
     return None
+
+def format_date(s: str) -> str:
+    d = parse_date(s)
+    return d.strftime("%B %d, %Y") if d else s
 
 
 def make_md(entries: List[Dict]) -> str:
@@ -61,7 +65,8 @@ def make_md(entries: List[Dict]) -> str:
         refs = e.get("references") or []
 
         # Card heading with anchor
-        body_lines.append(f"<a id=\"ach-{i}\"></a>\n### {i}. {title} ({date})\n\n")
+        formatted_date = format_date(date)
+        body_lines.append(f"<a id=\"ach-{i}\"></a>\n### {i}. {title} ({formatted_date})\n\n")
 
         # Use a simple two-column table for a clean, supported layout on GitHub
         body_lines.append("<table><tr>\n")
