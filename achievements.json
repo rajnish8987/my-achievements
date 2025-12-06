@@ -1,6 +1,6 @@
 [
   {
-    "title": "BT Group Data & AI Hackathon, which was held at the #GoogleAnanta office!",
+    "title": "Googel x BT Group Data & AI Hackathon June 2025",
     "date": "2025-06-05",
     "description": "It was all about fast-paced problem-solving, collaboration, learning and building stuff together using any GCP Services, such as Google Agentspace, Document AI, Speech-to-Text API, Cloud DLP for PII redaction, BigQuery + BQML for analytics, Gemini Flash, and other cutting-edge GCP Services, which made it truly memorable.",
     "image": "images/googleoffice.png",
@@ -92,6 +92,60 @@
       {
         "label": "View on Credly",
         "url": "https://www.credly.com/badges/96486c0b-2591-4cc2-bb39-3439b4ea60fd"
+      }
+    ]
+  },
+  {
+    "title": "Business Leadership",
+    "date": "April 02, 2024",
+    "description": "Earned from McKinsey & Company",
+    "image": "https://images.credly.com/size/680x680/images/8c655bf0-3852-455d-a6f2-d39dd1dd1162/image.png",
+    "references": [
+      {
+        "label": "View on Credly",
+        "url": "https://www.credly.com/badges/f8f7f4f7-463d-40ef-a6c8-591dcb49f361"
+      }
+    ]
+  },
+  {
+    "title": "Team Leadership",
+    "date": "May 01, 2024",
+    "description": "Earned from McKinsey & Company",
+    "image": "https://images.credly.com/size/680x680/images/a5ed18b6-81af-4620-8d93-3764ea196c1c/image.png",
+    "references": [
+      {
+        "label": "View on Credly",
+        "url": "https://www.credly.com/badges/a191c438-dd7b-408c-84e2-15e4d4d98f76"
+      }
+    ]
+  },
+  {
+    "title": "Self-Leadership",
+    "date": "May 22, 2024",
+    "description": "Earned from McKinsey & Company",
+    "image": "https://images.credly.com/size/680x680/images/d9bc0bea-0b50-4119-add4-67eaacae99e1/image.png",
+    "references": [
+      {
+        "label": "View on Credly",
+        "url": "https://www.credly.com/badges/0450e1dc-b50d-49b8-b1d4-e6230c7d2f81"
+      }
+    ]
+  },
+  {
+    "title": "BT x Google Cloud Hero Hackathon Event 2025",
+    "date": "2025-07-25",
+    "description": "Issued by Google Cloud Learning Team",
+    "image": ["images/gcp cloud hero.jpg","images/gcp cloud hero1.jpg"]
+  },
+  {
+    "title": "Google Cloud Skill Boost Profile",
+    "date": "2021-07-14",
+    "description": "Google's official online learning platform offering on-demand, hands-on training, labs, and courses for building skills in Google Cloud technologies and AI/ML, allowing users to earn shareable Skill Badges and prepare for Google Cloud certifications. It provides practical experience with real Google Cloud environments, covering everything from beginner fundamentals to advanced topics like generative AI and data engineering, with both free basic access and paid subscriptions for full content.",
+    "image": "images/googleoffice.png",
+    "references": [
+      {
+        "label": "Google Cloud Skill Boost Profile",
+        "url": "https://www.skills.google/public_profiles/bbae942d-c58a-4894-bc07-269c52f4c3fa"
       }
     ]
   }

@@ -70,35 +70,46 @@ def make_md(entries: List[Dict]) -> str:
 
         # Use a simple two-column table for a clean, supported layout on GitHub
         body_lines.append("<table><tr>\n")
-        # Left column: image (rounded corners)
+        # Left column: image(s) (rounded corners)
+        body_lines.append("<td width=\"240\" valign=\"top\">\n")
         if img:
-            body_lines.append(
-                f"<td width=\"240\" valign=\"top\">\n<img src=\"{img}\" alt=\"{title}\" width=\"220\" style=\"border-radius:8px;\" />\n</td>\n"
-            )
+            images = img if isinstance(img, list) else [img]
+            for idx, image_url in enumerate(images):
+                margin = "margin-bottom:10px;" if idx < len(images) - 1 else ""
+                body_lines.append(f"<img src=\"{image_url}\" alt=\"{title}\" width=\"220\" style=\"border-radius:8px;{margin}\" /><br/>\n")
         else:
-            body_lines.append("<td width=\"240\" valign=\"top\">(no image)</td>\n")
+            body_lines.append("(no image)")
+        body_lines.append("</td>\n")
 
         # Right column: description + references
         body_lines.append("<td valign=\"top\">\n")
         if desc:
             body_lines.append(f"{desc}\n\n")
 
-        # Render references (links) if present
+        # Render references (links/images) if present
         if refs:
             ref_items = []
+            ref_images = []
             for r in refs:
                 if isinstance(r, dict):
                     label = r.get("label") or r.get("title") or r.get("name") or r.get("url")
                     url = r.get("url")
+                    ref_img = r.get("image")
+                    if ref_img:
+                        ref_images.append((label, ref_img))
+                    elif url:
+                        ref_items.append(f"<a href=\"{url}\" target=\"_blank\">{label}</a>")
                 else:
-                    # allow string shorthand
-                    label = r
-                    url = r
-                if url:
-                    ref_items.append(f"<a href=\"{url}\">{label}</a>")
+                    ref_items.append(f"<a href=\"{r}\" target=\"_blank\">{r}</a>")
             if ref_items:
                 body_lines.append("<p><strong>References:</strong> ")
                 body_lines.append(" | ".join(ref_items))
+                body_lines.append("</p>\n")
+            if ref_images:
+                body_lines.append("<p>")
+                for lbl, img_url in ref_images:
+                    body_lines.append(f"<strong>{lbl}:</strong><br/>")
+                    body_lines.append(f"<img src=\"{img_url}\" alt=\"{lbl}\" width=\"400\" style=\"border-radius:8px; margin-top:8px;\"/><br/>")
                 body_lines.append("</p>\n")
 
         # Back links and close table
