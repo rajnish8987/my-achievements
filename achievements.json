@@ -1,0 +1,38 @@
+[
+  {
+    "title": "BT Group Data & AI Hackathon, which was held at the #GoogleAnanta office!",
+    "date": "2025-06-05",
+    "description": "It was all about fast-paced problem-solving, collaboration, learning and building stuff together using any GCP Services, such as Google Agentspace, Document AI, Speech-to-Text API, Cloud DLP for PII redaction, BigQuery + BQML for analytics, Gemini Flash, and other cutting-edge GCP Services, which made it truly memorable.",
+    "image": "images/googleoffice.png",
+    "references": [
+      {
+        "label": "LinkedIn post",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7336825947809058816/"
+      }
+    ]
+  },
+  {
+    "title": "Google cloud facilitator program 2021",
+    "date": "2021-07-07",
+    "description": "Investigated over a dozen key GCP features within an intensive training program, providing feedback on service improvements which informed future project implementations; awarded recognition items reflecting commitment to professional growth and received swags from Google.",
+    "image": "images/1632944541186.jpg",
+    "references": [
+      {
+        "label": "LinkedIn post",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:6849065828424523776/"
+      }
+    ]
+  },
+  {
+    "title": "Completed projects on Web Development",
+    "date": "2018-11-05",
+    "description": "Completed projects on Web Development.",
+    "image": "images/buzzinfo.png",
+    "references": [
+      {
+        "label": "Blog",
+        "url": "https://buzzinformations.blogspot.com/"
+      }
+    ]
+  }
+]
