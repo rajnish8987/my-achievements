@@ -58,5 +58,17 @@
         "url": "https://www.credly.com/badges/..."
       }
     ]
+  },
+  {
+    "title": "GCP Professional Data Engineer Certification",
+    "date": "July 28, 2024",
+    "description": "Earned from Google",
+    "image": "https://images.credly.com/size/680x680/images/2d613ff8-8879-430b-b2d8-925fa29785e8/image.png",
+    "references": [
+      {
+        "label": "View on Credly",
+        "url": "https://www.credly.com/badges/bda5432f-2169-4629-98de-dc6d295d4661"
+      }
+    ]
   }
 ]

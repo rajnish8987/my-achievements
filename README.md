@@ -16,6 +16,8 @@ Run `python scripts/generate_readme.py` after you add images to `images/` and en
 - [3. Google cloud facilitator program 2021](#ach-3)
 - [4. Google Cloud Facilitator](#ach-4)
 - [5. Completed projects on Web Development](#ach-5)
+- [6. GCP Professional Data Engineer Certification](#ach-6)
+- [7. GCP Professional Data Engineer Certification](#ach-7)
 - [Repository Documentation](#repository-documentation)
 
 <a id="achievements-gallery"></a>
@@ -104,6 +106,42 @@ Certified by Google Cloud
 Completed projects on Web Development.
 
 <p><strong>References:</strong> <a href="https://buzzinformations.blogspot.com/">Blog</a></p>
+</td>
+</tr></table>
+
+[Back to Index](#index) | [Back to Top](#my-achievements)
+
+---
+
+<a id="ach-6"></a>
+### 6. GCP Professional Data Engineer Certification (July 28, 2024)
+
+<table><tr>
+<td width="240" valign="top">
+<img src="https://images.credly.com/size/680x680/images/2d613ff8-8879-430b-b2d8-925fa29785e8/image.png" alt="GCP Professional Data Engineer Certification" width="220" style="border-radius:8px;" />
+</td>
+<td valign="top">
+Earned from Google
+
+<p><strong>References:</strong> <a href="https://www.credly.com/badges/bda5432f-2169-4629-98de-dc6d295d4661">View on Credly</a></p>
+</td>
+</tr></table>
+
+[Back to Index](#index) | [Back to Top](#my-achievements)
+
+---
+
+<a id="ach-7"></a>
+### 7. GCP Professional Data Engineer Certification (July 28, 2024)
+
+<table><tr>
+<td width="240" valign="top">
+<img src="https://images.credly.com/size/680x680/images/2d613ff8-8879-430b-b2d8-925fa29785e8/image.png" alt="GCP Professional Data Engineer Certification" width="220" style="border-radius:8px;" />
+</td>
+<td valign="top">
+Earned from Google Cloud
+
+<p><strong>References:</strong> <a href="https://www.credly.com/badges/bda5432f-2169-4629-98de-dc6d295d4661">View on Credly</a></p>
 </td>
 </tr></table>
 
