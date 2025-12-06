@@ -70,13 +70,19 @@ def make_md(entries: List[Dict]) -> str:
 
         # Use a simple two-column table for a clean, supported layout on GitHub
         body_lines.append("<table><tr>\n")
-        # Left column: image(s) (rounded corners)
-        body_lines.append("<td width=\"240\" valign=\"top\">\n")
+        # Left column: image(s) in grid
+        body_lines.append("<td width=\"500\" valign=\"top\">\n")
         if img:
             images = img if isinstance(img, list) else [img]
-            for idx, image_url in enumerate(images):
-                margin = "margin-bottom:10px;" if idx < len(images) - 1 else ""
-                body_lines.append(f"<img src=\"{image_url}\" alt=\"{title}\" width=\"220\" style=\"border-radius:8px;{margin}\" /><br/>\n")
+            if len(images) == 1:
+                body_lines.append(f"<img src=\"{images[0]}\" alt=\"{title}\" width=\"450\" style=\"border-radius:8px;\" /><br/>\n")
+            else:
+                body_lines.append("<table><tr>\n")
+                for idx, image_url in enumerate(images):
+                    body_lines.append(f"<td><img src=\"{image_url}\" alt=\"{title}\" width=\"220\" style=\"border-radius:8px;\" /></td>\n")
+                    if (idx + 1) % 2 == 0 and idx < len(images) - 1:
+                        body_lines.append("</tr><tr>\n")
+                body_lines.append("</tr></table>\n")
         else:
             body_lines.append("(no image)")
         body_lines.append("</td>\n")

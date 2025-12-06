@@ -33,12 +33,14 @@ Run `python scripts/generate_readme.py` after you add images to `images/` and en
 ### 1. BT x Google Cloud Hero Hackathon Event 2025 (July 25, 2025)
 
 <table><tr>
-<td width="240" valign="top">
-<img src="images/gcp cloud hero.jpg" alt="BT x Google Cloud Hero Hackathon Event 2025" width="220" style="border-radius:8px;margin-bottom:10px;" /><br/>
-<img src="images/gcp cloud hero1.jpg" alt="BT x Google Cloud Hero Hackathon Event 2025" width="220" style="border-radius:8px;" /><br/>
+<td width="500" valign="top">
+<table><tr>
+<td><img src="images/gcp cloud hero.jpg" alt="BT x Google Cloud Hero Hackathon Event 2025" width="220" style="border-radius:8px;" /></td>
+<td><img src="images/gcp cloud hero1.jpg" alt="BT x Google Cloud Hero Hackathon Event 2025" width="220" style="border-radius:8px;" /></td>
+</tr></table>
 </td>
 <td valign="top">
-Issued by Google Cloud Learning Team
+Issued by Google Cloud Learning Team, Received award from Engineering Director (Shikha Raghav) at BT Group
 
 </td>
 </tr></table>
@@ -51,8 +53,8 @@ Issued by Google Cloud Learning Team
 ### 2. Google Cloud Data & AI (June 10, 2025)
 
 <table><tr>
-<td width="240" valign="top">
-<img src="https://images.credly.com/size/680x680/images/cab985f4-9f17-4e9e-9435-e058ca162404/blob" alt="Google Cloud Data & AI" width="220" style="border-radius:8px;" /><br/>
+<td width="500" valign="top">
+<img src="https://images.credly.com/size/680x680/images/cab985f4-9f17-4e9e-9435-e058ca162404/blob" alt="Google Cloud Data & AI" width="450" style="border-radius:8px;" /><br/>
 </td>
 <td valign="top">
 Earned from Issued by Explore Google Cloud
@@ -69,8 +71,8 @@ Earned from Issued by Explore Google Cloud
 ### 3. Googel x BT Group Data & AI Hackathon June 2025 (June 05, 2025)
 
 <table><tr>
-<td width="240" valign="top">
-<img src="images/googleoffice.png" alt="Googel x BT Group Data & AI Hackathon June 2025" width="220" style="border-radius:8px;" /><br/>
+<td width="500" valign="top">
+<img src="images/googleoffice.png" alt="Googel x BT Group Data & AI Hackathon June 2025" width="450" style="border-radius:8px;" /><br/>
 </td>
 <td valign="top">
 It was all about fast-paced problem-solving, collaboration, learning and building stuff together using any GCP Services, such as Google Agentspace, Document AI, Speech-to-Text API, Cloud DLP for PII redaction, BigQuery + BQML for analytics, Gemini Flash, and other cutting-edge GCP Services, which made it truly memorable.
@@ -87,8 +89,8 @@ It was all about fast-paced problem-solving, collaboration, learning and buildin
 ### 4. Google Professional Machine Learning Engineer Certification (November 30, 2024)
 
 <table><tr>
-<td width="240" valign="top">
-<img src="https://images.credly.com/size/680x680/images/05e71e7e-92a1-4821-8530-4176b2e3c4b4/image.png" alt="Google Professional Machine Learning Engineer Certification" width="220" style="border-radius:8px;" /><br/>
+<td width="500" valign="top">
+<img src="https://images.credly.com/size/680x680/images/05e71e7e-92a1-4821-8530-4176b2e3c4b4/image.png" alt="Google Professional Machine Learning Engineer Certification" width="450" style="border-radius:8px;" /><br/>
 </td>
 <td valign="top">
 Earned from Certified by Google Cloud
@@ -105,8 +107,8 @@ Earned from Certified by Google Cloud
 ### 5. Google Professional Data Engineer Certification (July 28, 2024)
 
 <table><tr>
-<td width="240" valign="top">
-<img src="https://images.credly.com/size/680x680/images/2d613ff8-8879-430b-b2d8-925fa29785e8/image.png" alt="Google Professional Data Engineer Certification" width="220" style="border-radius:8px;" /><br/>
+<td width="500" valign="top">
+<img src="https://images.credly.com/size/680x680/images/2d613ff8-8879-430b-b2d8-925fa29785e8/image.png" alt="Google Professional Data Engineer Certification" width="450" style="border-radius:8px;" /><br/>
 </td>
 <td valign="top">
 Certified by Google Cloud
@@ -123,8 +125,8 @@ Certified by Google Cloud
 ### 6. Self-Leadership (May 22, 2024)
 
 <table><tr>
-<td width="240" valign="top">
-<img src="https://images.credly.com/size/680x680/images/d9bc0bea-0b50-4119-add4-67eaacae99e1/image.png" alt="Self-Leadership" width="220" style="border-radius:8px;" /><br/>
+<td width="500" valign="top">
+<img src="https://images.credly.com/size/680x680/images/d9bc0bea-0b50-4119-add4-67eaacae99e1/image.png" alt="Self-Leadership" width="450" style="border-radius:8px;" /><br/>
 </td>
 <td valign="top">
 Earned from McKinsey & Company
@@ -141,8 +143,8 @@ Earned from McKinsey & Company
 ### 7. Team Leadership (May 01, 2024)
 
 <table><tr>
-<td width="240" valign="top">
-<img src="https://images.credly.com/size/680x680/images/a5ed18b6-81af-4620-8d93-3764ea196c1c/image.png" alt="Team Leadership" width="220" style="border-radius:8px;" /><br/>
+<td width="500" valign="top">
+<img src="https://images.credly.com/size/680x680/images/a5ed18b6-81af-4620-8d93-3764ea196c1c/image.png" alt="Team Leadership" width="450" style="border-radius:8px;" /><br/>
 </td>
 <td valign="top">
 Earned from McKinsey & Company
@@ -159,8 +161,8 @@ Earned from McKinsey & Company
 ### 8. Business Leadership (April 02, 2024)
 
 <table><tr>
-<td width="240" valign="top">
-<img src="https://images.credly.com/size/680x680/images/8c655bf0-3852-455d-a6f2-d39dd1dd1162/image.png" alt="Business Leadership" width="220" style="border-radius:8px;" /><br/>
+<td width="500" valign="top">
+<img src="https://images.credly.com/size/680x680/images/8c655bf0-3852-455d-a6f2-d39dd1dd1162/image.png" alt="Business Leadership" width="450" style="border-radius:8px;" /><br/>
 </td>
 <td valign="top">
 Earned from McKinsey & Company
@@ -177,8 +179,8 @@ Earned from McKinsey & Company
 ### 9. Google Cloud Digital Leader Certification (March 11, 2024)
 
 <table><tr>
-<td width="240" valign="top">
-<img src="https://images.credly.com/size/680x680/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png" alt="Google Cloud Digital Leader Certification" width="220" style="border-radius:8px;" /><br/>
+<td width="500" valign="top">
+<img src="https://images.credly.com/size/680x680/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png" alt="Google Cloud Digital Leader Certification" width="450" style="border-radius:8px;" /><br/>
 </td>
 <td valign="top">
 Earned from Certified by Google Cloud
@@ -195,8 +197,8 @@ Earned from Certified by Google Cloud
 ### 10. Google Professional Cloud Architect Certification (September 15, 2023)
 
 <table><tr>
-<td width="240" valign="top">
-<img src="https://images.credly.com/size/680x680/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" alt="Google Professional Cloud Architect Certification" width="220" style="border-radius:8px;" /><br/>
+<td width="500" valign="top">
+<img src="https://images.credly.com/size/680x680/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" alt="Google Professional Cloud Architect Certification" width="450" style="border-radius:8px;" /><br/>
 </td>
 <td valign="top">
 Earned from Certified by Google Cloud
@@ -213,8 +215,8 @@ Earned from Certified by Google Cloud
 ### 11. Google Cloud Skill Boost Profile (July 14, 2021)
 
 <table><tr>
-<td width="240" valign="top">
-<img src="images/googleoffice.png" alt="Google Cloud Skill Boost Profile" width="220" style="border-radius:8px;" /><br/>
+<td width="500" valign="top">
+<img src="images/googleoffice.png" alt="Google Cloud Skill Boost Profile" width="450" style="border-radius:8px;" /><br/>
 </td>
 <td valign="top">
 Google's official online learning platform offering on-demand, hands-on training, labs, and courses for building skills in Google Cloud technologies and AI/ML, allowing users to earn shareable Skill Badges and prepare for Google Cloud certifications. It provides practical experience with real Google Cloud environments, covering everything from beginner fundamentals to advanced topics like generative AI and data engineering, with both free basic access and paid subscriptions for full content.
@@ -231,8 +233,8 @@ Google's official online learning platform offering on-demand, hands-on training
 ### 12. Google cloud facilitator program 2021 (July 07, 2021)
 
 <table><tr>
-<td width="240" valign="top">
-<img src="images/1632944541186.jpg" alt="Google cloud facilitator program 2021" width="220" style="border-radius:8px;" /><br/>
+<td width="500" valign="top">
+<img src="images/1632944541186.jpg" alt="Google cloud facilitator program 2021" width="450" style="border-radius:8px;" /><br/>
 </td>
 <td valign="top">
 Investigated over a dozen key GCP features within an intensive training program, providing feedback on service improvements which informed future project implementations; awarded recognition items reflecting commitment to professional growth and received swags from Google.
@@ -249,8 +251,8 @@ Investigated over a dozen key GCP features within an intensive training program,
 ### 13. Completed projects on Web Development (November 05, 2018)
 
 <table><tr>
-<td width="240" valign="top">
-<img src="images/buzzinfo.png" alt="Completed projects on Web Development" width="220" style="border-radius:8px;" /><br/>
+<td width="500" valign="top">
+<img src="images/buzzinfo.png" alt="Completed projects on Web Development" width="450" style="border-radius:8px;" /><br/>
 </td>
 <td valign="top">
 Completed projects on Web Development.
