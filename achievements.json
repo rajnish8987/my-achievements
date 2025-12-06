@@ -34,5 +34,29 @@
         "url": "https://buzzinformations.blogspot.com/"
       }
     ]
+  },
+  {
+    "title": "Google Cloud Professional Cloud Architect",
+    "date": "2025-06-05",
+    "description": "Certified by Google Cloud",
+    "image": "https://images.credly.com/size/340x340/images/08096465-cbfc-4c3b-93e0-99853123c188/image.png",
+    "references": [
+      {
+        "label": "View Badge",
+        "url": "https://www.credly.com/badges/..."
+      }
+    ]
+  },
+  {
+    "title": "Google Cloud Facilitator",
+    "date": "2021-07-07",
+    "description": "Certified by Google Cloud",
+    "image": "https://images.credly.com/...",
+    "references": [
+      {
+        "label": "View Badge",
+        "url": "https://www.credly.com/badges/..."
+      }
+    ]
   }
 ]

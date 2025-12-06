@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Badge Name Here",
+    "issuer": "Google Cloud",
+    "image_url": "https://images.credly.com/...",
+    "url": "https://www.credly.com/badges/...",
+    "issued_date": "2025-06-05"
+  },
+  {
+    "name": "Another Badge",
+    "issuer": "Google",
+    "image_url": "https://images.credly.com/...",
+    "url": "https://www.credly.com/badges/...",
+    "issued_date": "2024-01-15"
+  }
+]
