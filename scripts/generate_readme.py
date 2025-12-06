@@ -97,7 +97,7 @@ def make_md(entries: List[Dict]) -> str:
                 body_lines.append("</p>\n")
 
         # Back links and close table
-        body_lines.append("<p>[Back to Index](#index) | [Back to Top](#my-achievements)</p>\n")
+        body_lines.append("[Back to Index](#index) | [Back to Top](#my-achievements)\n\n")
         body_lines.append("</td>\n</tr></table>\n\n---\n\n")
 
     # Repository documentation appended at the end
