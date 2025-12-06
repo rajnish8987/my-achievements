@@ -36,18 +36,6 @@
     ]
   },
   {
-    "title": "Google Cloud Professional Cloud Architect",
-    "date": "September 15, 2023",
-    "description": "Certified by Google Cloud",
-    "image": "https://images.credly.com/size/680x680/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png",
-    "references": [
-      {
-        "label": "View on Credly",
-        "url": "http://credly.com/badges/9ad1d859-6fea-45af-bdc9-e968292878a4"
-      }
-    ]
-  },
-  {
     "title": "Google Professional Data Engineer Certification",
     "date": "July 28, 2024",
     "description": "Certified by Google Cloud",
@@ -56,6 +44,54 @@
       {
         "label": "View on Credly",
         "url": "https://www.credly.com/badges/bda5432f-2169-4629-98de-dc6d295d4661"
+      }
+    ]
+  },
+  {
+    "title": "Google Professional Cloud Architect Certification",
+    "date": "September 15, 2023",
+    "description": "Earned from Certified by Google Cloud",
+    "image": "https://images.credly.com/size/680x680/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png",
+    "references": [
+      {
+        "label": "View on Credly",
+        "url": "https://www.credly.com/badges/9ad1d859-6fea-45af-bdc9-e968292878a4"
+      }
+    ]
+  },
+  {
+    "title": "Google Professional Machine Learning Engineer Certification",
+    "date": "November 30, 2024",
+    "description": "Earned from Certified by Google Cloud",
+    "image": "https://images.credly.com/size/680x680/images/05e71e7e-92a1-4821-8530-4176b2e3c4b4/image.png",
+    "references": [
+      {
+        "label": "View on Credly",
+        "url": "https://www.credly.com/badges/56960529-eda0-42db-a1df-64effff28141"
+      }
+    ]
+  },
+  {
+    "title": "Google Cloud Digital Leader Certification",
+    "date": "March 11, 2024",
+    "description": "Earned from Certified by Google Cloud",
+    "image": "https://images.credly.com/size/680x680/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png",
+    "references": [
+      {
+        "label": "View on Credly",
+        "url": "https://www.credly.com/badges/158dcced-b087-4146-9fbd-d03d16d57156"
+      }
+    ]
+  },
+  {
+    "title": "Google Cloud Data & AI",
+    "date": "June 10, 2025",
+    "description": "Earned from Issued by Explore Google Cloud",
+    "image": "https://images.credly.com/size/680x680/images/cab985f4-9f17-4e9e-9435-e058ca162404/blob",
+    "references": [
+      {
+        "label": "View on Credly",
+        "url": "https://www.credly.com/badges/96486c0b-2591-4cc2-bb39-3439b4ea60fd"
       }
     ]
   }

@@ -47,6 +47,6 @@ with open(ACHIEVEMENTS_PATH, "w", encoding="utf-8") as f:
 print(f"\n✓ Added '{name}' to achievements.json")
 print("\nAdd another? (y/n):")
 if input("> ").lower() == 'y':
-    os.system(f"python {__file__}")
+    os.system(f'python "{__file__}"')
 else:
     print("\nRun: python scripts/generate_readme.py")
