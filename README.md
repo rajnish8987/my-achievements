@@ -30,10 +30,10 @@ Run `python scripts/generate_readme.py` after you add images to `images/` and en
 It was all about fast-paced problem-solving, collaboration, learning and building stuff together using any GCP Services, such as Google Agentspace, Document AI, Speech-to-Text API, Cloud DLP for PII redaction, BigQuery + BQML for analytics, Gemini Flash, and other cutting-edge GCP Services, which made it truly memorable.
 
 <p><strong>References:</strong> <a href="https://www.linkedin.com/feed/update/urn:li:activity:7336825947809058816/">LinkedIn post</a></p>
-[Back to Index](#index) | [Back to Top](#my-achievements)
-
 </td>
 </tr></table>
+
+[Back to Index](#index) | [Back to Top](#my-achievements)
 
 ---
 
@@ -48,10 +48,10 @@ It was all about fast-paced problem-solving, collaboration, learning and buildin
 Investigated over a dozen key GCP features within an intensive training program, providing feedback on service improvements which informed future project implementations; awarded recognition items reflecting commitment to professional growth and received swags from Google.
 
 <p><strong>References:</strong> <a href="https://www.linkedin.com/feed/update/urn:li:activity:6849065828424523776/">LinkedIn post</a></p>
-[Back to Index](#index) | [Back to Top](#my-achievements)
-
 </td>
 </tr></table>
+
+[Back to Index](#index) | [Back to Top](#my-achievements)
 
 ---
 
@@ -66,10 +66,10 @@ Investigated over a dozen key GCP features within an intensive training program,
 Completed projects on Web Development.
 
 <p><strong>References:</strong> <a href="https://buzzinformations.blogspot.com/">Blog</a></p>
-[Back to Index](#index) | [Back to Top](#my-achievements)
-
 </td>
 </tr></table>
+
+[Back to Index](#index) | [Back to Top](#my-achievements)
 
 ---
 
