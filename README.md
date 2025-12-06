@@ -216,7 +216,7 @@ Earned from Certified by Google Cloud
 
 <table><tr>
 <td width="500" valign="top">
-<img src="images/googleoffice.png" alt="Google Cloud Skill Boost Profile" width="450" style="border-radius:8px;" /><br/>
+<img src="images/cloudboost.png" alt="Google Cloud Skill Boost Profile" width="450" style="border-radius:8px;" /><br/>
 </td>
 <td valign="top">
 Google's official online learning platform offering on-demand, hands-on training, labs, and courses for building skills in Google Cloud technologies and AI/ML, allowing users to earn shareable Skill Badges and prepare for Google Cloud certifications. It provides practical experience with real Google Cloud environments, covering everything from beginner fundamentals to advanced topics like generative AI and data engineering, with both free basic access and paid subscriptions for full content.
