@@ -11,26 +11,51 @@ Run `python scripts/generate_readme.py` after you add images to `images/` and en
 ## Index
 
 - [All achievements](#achievements-gallery)
-- [1. BT x Google Cloud Hero Hackathon Event 2025](#ach-1)
-- [2. Google Cloud Data & AI](#ach-2)
-- [3. Googel x BT Group Data & AI Hackathon June 2025](#ach-3)
-- [4. Google Professional Machine Learning Engineer Certification](#ach-4)
-- [5. Google Professional Data Engineer Certification](#ach-5)
-- [6. Self-Leadership](#ach-6)
-- [7. Team Leadership](#ach-7)
-- [8. Business Leadership](#ach-8)
-- [9. Google Cloud Digital Leader Certification](#ach-9)
-- [10. Google Professional Cloud Architect Certification](#ach-10)
-- [11. Google Cloud Skill Boost Profile](#ach-11)
-- [12. Google cloud facilitator program 2021](#ach-12)
-- [13. Completed projects on Web Development](#ach-13)
+- [1. Build with AI Bootcamp 2026, Bengaluru (Google for Developers x Hack2skill)](#ach-1)
+- [2. BT x Google Cloud Hero Hackathon Event 2025](#ach-2)
+- [3. Google Cloud Data & AI](#ach-3)
+- [4. Google x BT Group Data & AI Hackathon June 2025](#ach-4)
+- [5. Google Professional Machine Learning Engineer Certification](#ach-5)
+- [6. Google Professional Data Engineer Certification](#ach-6)
+- [7. Self-Leadership](#ach-7)
+- [8. Team Leadership](#ach-8)
+- [9. Business Leadership](#ach-9)
+- [10. Google Cloud Digital Leader Certification](#ach-10)
+- [11. Google Professional Cloud Architect Certification](#ach-11)
+- [12. Google Cloud Skill Boost Profile](#ach-12)
+- [13. Google cloud facilitator program 2021](#ach-13)
+- [14. Completed projects on Web Development](#ach-14)
 - [Repository Documentation](#repository-documentation)
 
 <a id="achievements-gallery"></a>
 ## Achievements Gallery
 
 <a id="ach-1"></a>
-### 1. BT x Google Cloud Hero Hackathon Event 2025 (July 25, 2025)
+### 1. Build with AI Bootcamp 2026, Bengaluru (Google for Developers x Hack2skill) (November 13, 2026)
+
+<table><tr>
+<td width="500" valign="top">
+<table><tr>
+<td><img src="images/build-with-ai-bengaluru-2026.jpg" alt="Build with AI Bootcamp 2026, Bengaluru (Google for Developers x Hack2skill)" width="220" style="border-radius:8px;" /></td>
+<td><img src="images/build-with-ai-bengaluru-2026-certificate.png" alt="Build with AI Bootcamp 2026, Bengaluru (Google for Developers x Hack2skill)" width="220" style="border-radius:8px;" /></td>
+</tr><tr>
+<td><img src="images/build-with-ai-bengaluru-2026-stage.jpg" alt="Build with AI Bootcamp 2026, Bengaluru (Google for Developers x Hack2skill)" width="220" style="border-radius:8px;" /></td>
+<td><img src="images/pullwise-live-app.png" alt="Build with AI Bootcamp 2026, Bengaluru (Google for Developers x Hack2skill)" width="220" style="border-radius:8px;" /></td>
+</tr></table>
+</td>
+<td valign="top">
+Hands-on bootcamp at Google's Bengaluru office on building with cloud agentic AI: designing screens in Stitch, prototyping in Google AI Studio, and shipping with Google Antigravity. Afterwards I brought my resistance-band training app into Google AI Studio's Build mode as Pullwise and published it there: an on-device camera coach that counts reps and cues form, a voice coach, a plan that adjusts itself, offline use, and English, Hindi and Spanish. Certificate of participation, ID 2026H2S10BWAIBBLR-P00037, issued November 17, 2026.
+
+<p><strong>References:</strong> <a href="https://www.linkedin.com/feed/update/urn:li:activity:7528544751512354816/" target="_blank">LinkedIn post</a> | <a href="https://pullwise.ai.studio/" target="_blank">Pullwise (live app)</a></p>
+</td>
+</tr></table>
+
+[Back to Index](#index) | [Back to Top](#my-achievements)
+
+---
+
+<a id="ach-2"></a>
+### 2. BT x Google Cloud Hero Hackathon Event 2025 (July 25, 2025)
 
 <table><tr>
 <td width="500" valign="top">
@@ -49,8 +74,8 @@ Issued by Google Cloud Learning Team, Received award from Engineering Director (
 
 ---
 
-<a id="ach-2"></a>
-### 2. Google Cloud Data & AI (June 10, 2025)
+<a id="ach-3"></a>
+### 3. Google Cloud Data & AI (June 10, 2025)
 
 <table><tr>
 <td width="500" valign="top">
@@ -67,12 +92,12 @@ Earned from Issued by Explore Google Cloud
 
 ---
 
-<a id="ach-3"></a>
-### 3. Googel x BT Group Data & AI Hackathon June 2025 (June 05, 2025)
+<a id="ach-4"></a>
+### 4. Google x BT Group Data & AI Hackathon June 2025 (June 05, 2025)
 
 <table><tr>
 <td width="500" valign="top">
-<img src="images/googleoffice.png" alt="Googel x BT Group Data & AI Hackathon June 2025" width="450" style="border-radius:8px;" /><br/>
+<img src="images/googleoffice.png" alt="Google x BT Group Data & AI Hackathon June 2025" width="450" style="border-radius:8px;" /><br/>
 </td>
 <td valign="top">
 It was all about fast-paced problem-solving, collaboration, learning and building stuff together using any GCP Services, such as Google Agentspace, Document AI, Speech-to-Text API, Cloud DLP for PII redaction, BigQuery + BQML for analytics, Gemini Flash, and other cutting-edge GCP Services, which made it truly memorable.
@@ -85,8 +110,8 @@ It was all about fast-paced problem-solving, collaboration, learning and buildin
 
 ---
 
-<a id="ach-4"></a>
-### 4. Google Professional Machine Learning Engineer Certification (November 30, 2024)
+<a id="ach-5"></a>
+### 5. Google Professional Machine Learning Engineer Certification (November 30, 2024)
 
 <table><tr>
 <td width="500" valign="top">
@@ -103,8 +128,8 @@ Earned from Certified by Google Cloud
 
 ---
 
-<a id="ach-5"></a>
-### 5. Google Professional Data Engineer Certification (July 28, 2024)
+<a id="ach-6"></a>
+### 6. Google Professional Data Engineer Certification (July 28, 2024)
 
 <table><tr>
 <td width="500" valign="top">
@@ -121,8 +146,8 @@ Certified by Google Cloud
 
 ---
 
-<a id="ach-6"></a>
-### 6. Self-Leadership (May 22, 2024)
+<a id="ach-7"></a>
+### 7. Self-Leadership (May 22, 2024)
 
 <table><tr>
 <td width="500" valign="top">
@@ -139,8 +164,8 @@ Earned from McKinsey & Company
 
 ---
 
-<a id="ach-7"></a>
-### 7. Team Leadership (May 01, 2024)
+<a id="ach-8"></a>
+### 8. Team Leadership (May 01, 2024)
 
 <table><tr>
 <td width="500" valign="top">
@@ -157,8 +182,8 @@ Earned from McKinsey & Company
 
 ---
 
-<a id="ach-8"></a>
-### 8. Business Leadership (April 02, 2024)
+<a id="ach-9"></a>
+### 9. Business Leadership (April 02, 2024)
 
 <table><tr>
 <td width="500" valign="top">
@@ -175,8 +200,8 @@ Earned from McKinsey & Company
 
 ---
 
-<a id="ach-9"></a>
-### 9. Google Cloud Digital Leader Certification (March 11, 2024)
+<a id="ach-10"></a>
+### 10. Google Cloud Digital Leader Certification (March 11, 2024)
 
 <table><tr>
 <td width="500" valign="top">
@@ -193,8 +218,8 @@ Earned from Certified by Google Cloud
 
 ---
 
-<a id="ach-10"></a>
-### 10. Google Professional Cloud Architect Certification (September 15, 2023)
+<a id="ach-11"></a>
+### 11. Google Professional Cloud Architect Certification (September 15, 2023)
 
 <table><tr>
 <td width="500" valign="top">
@@ -211,8 +236,8 @@ Earned from Certified by Google Cloud
 
 ---
 
-<a id="ach-11"></a>
-### 11. Google Cloud Skill Boost Profile (July 14, 2021)
+<a id="ach-12"></a>
+### 12. Google Cloud Skill Boost Profile (July 14, 2021)
 
 <table><tr>
 <td width="500" valign="top">
@@ -229,8 +254,8 @@ Google's official online learning platform offering on-demand, hands-on training
 
 ---
 
-<a id="ach-12"></a>
-### 12. Google cloud facilitator program 2021 (July 07, 2021)
+<a id="ach-13"></a>
+### 13. Google cloud facilitator program 2021 (July 07, 2021)
 
 <table><tr>
 <td width="500" valign="top">
@@ -247,8 +272,8 @@ Investigated over a dozen key GCP features within an intensive training program,
 
 ---
 
-<a id="ach-13"></a>
-### 13. Completed projects on Web Development (November 05, 2018)
+<a id="ach-14"></a>
+### 14. Completed projects on Web Development (November 05, 2018)
 
 <table><tr>
 <td width="500" valign="top">

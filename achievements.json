@@ -1,5 +1,21 @@
 [
   {
+    "title": "Build with AI Bootcamp 2026, Bengaluru (Google for Developers x Hack2skill)",
+    "date": "2026-11-13",
+    "description": "Hands-on bootcamp at Google's Bengaluru office on building with cloud agentic AI: designing screens in Stitch, prototyping in Google AI Studio, and shipping with Google Antigravity. Afterwards I brought my resistance-band training app into Google AI Studio's Build mode as Pullwise and published it there: an on-device camera coach that counts reps and cues form, a voice coach, a plan that adjusts itself, offline use, and English, Hindi and Spanish. Certificate of participation, ID 2026H2S10BWAIBBLR-P00037, issued November 17, 2026.",
+    "image": ["images/build-with-ai-bengaluru-2026.jpg", "images/build-with-ai-bengaluru-2026-certificate.png", "images/build-with-ai-bengaluru-2026-stage.jpg", "images/pullwise-live-app.png"],
+    "references": [
+      {
+        "label": "LinkedIn post",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7528544751512354816/"
+      },
+      {
+        "label": "Pullwise (live app)",
+        "url": "https://pullwise.ai.studio/"
+      }
+    ]
+  },
+  {
     "title": "Google x BT Group Data & AI Hackathon June 2025",
     "date": "2025-06-05",
     "description": "It was all about fast-paced problem-solving, collaboration, learning and building stuff together using any GCP Services, such as Google Agentspace, Document AI, Speech-to-Text API, Cloud DLP for PII redaction, BigQuery + BQML for analytics, Gemini Flash, and other cutting-edge GCP Services, which made it truly memorable.",
